@@ -1,0 +1,7 @@
+Método;Tipo;Tiempo(ms)
+getGamesByPrice;lineal;12
+getGamesByPrice;binaria;0
+getGamesByPriceRange;lineal;18
+getGamesByPriceRange;binaria;33
+getGamesByCategory;lineal;15
+getGamesByCategory;binaria;19

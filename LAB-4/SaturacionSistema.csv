@@ -1,0 +1,15 @@
+Resumen por categoría
+Categoria;CantidadAtendidos;PromedioEspera(min);FueraDeTiempo
+C1;18;1.39;5
+C2;23;1.96;0
+C3;22;2.05;0
+C4;42;1.55;0
+C5;39;1.54;0
+
+Pacientes que excedieron el tiempo máximo de espera
+ID;Nombre;Apellido;Categoria;TiempoLlegada;TiempoAtencion;TiempoEsperaMin
+1133-9;Pedro;Gonzalez;1;25800;26100;5
+26918-2;Claudia;Rojas;1;38400;38700;5
+14222-0;Luis;Ramirez;1;7800;8100;5
+8064-0;Pedro;Gonzalez;1;74400;74700;5
+2530-5;Ana;Perez;1;79800;80100;5
